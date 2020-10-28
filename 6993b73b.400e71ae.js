@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{71:function(o){o.exports=JSON.parse('{"allTagsPath":"/teseditor/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/teseditor/blog/tags/hola"}')}}]);
