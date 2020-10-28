@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{66:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/teseditor/blog/welcome"},{"title":"Hello","permalink":"/teseditor/blog/hello-world"},{"title":"Hola","permalink":"/teseditor/blog/hola"}]}')}}]);
