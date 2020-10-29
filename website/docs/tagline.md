@@ -5,199 +5,191 @@ sidebar_label: 介绍
 slug: /
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+# 欢迎使用用TES开发平台
 
-## Markdown Syntax
+版本：1.0    更新日期：2020-10-27
 
-To serve as an example page when styling markdown based Docusaurus sites.
+**TES开发平台**是专为非编程人员设定的一款 **`简易图形化`**开发平台旨在倡导由**`工艺人员或实习生和美工`**独立开发完成TES任务卡片，提供**`交互式、趣味性`**的任务卡，并且能够提供**`丰富的模板`**，**`扩展教学资源`**：
 
-## Headers
+- **图形界面** ：简易的图形化开发界面，学习与使用**`极易`**上手；
+- **逻辑积木** ：逻辑开发完全使用积木搭接的方式，提供常见的**`逻辑积木`**模块，示例项目等；
+- **实时预览** ：开发过程中，支持手机扫码**`实时预览`**。
 
-# H1 - Create the best documentation
+-------------------
 
-## H2 - Create the best documentation
+[TOC]
 
-### H3 - Create the best documentation
+## 平台简介
 
-#### H4 - Create the best documentation
+TES开发平台基于开源的“*Scratch*”简易图形化界面，**`面向非程序开发人员`**。
+开发平台地址：
+*https://assistant.es-online.com.cn/lzctest/teseditor/index.html*
 
-##### H5 - Create the best documentation
+### 应用范围
+>**提示: ** 当前列举应用范围并不完全，请以实际应用为准。
+>
+>| 应用课程 | 场景描述                                                     |
+>| :------- | ------------------------------------------------------------ |
+>| 化工原理 | 配合《化工原理》，化工实验等基础原理课程，掌握原理认知、理论认知等 |
+>| 工艺流程 | 配合工艺流程视频、PPT等素材，扩展工艺流程类课程活动          |
+>| 设备结构 | 配合设备结构、PPT等素材，扩展结构类课程活动                  |
+>| 安全实训 | 配合安全实训类课程使用，如危险源识别、实验室安全等           |
 
-###### H6 - Create the best documentation
+### 使用流程
+TES开发平台基于开源的“*Scratch*”简易图形化界面，**`面向非程序开发人员`**。
+```flow
 
----
+LX=>start: 立项
+JBSC=>operation: 编写脚本与素材
+DL=>operation: 登录易思在线
+KF=>operation: 进行开发
+SC=>operation: 生成链接
+ZT=>operation: 创建专题信息
+MX=>operation: 发给米星
 
-## Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
----
-
-## Lists
-
-1. First ordered list item
-1. Another item
-   - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-1. And another item.
-
-* Unordered list can use asterisks
-
-- Or minuses
-
-+ Or pluses
-
----
-
-## Links
-
-[I'm an inline-style link](https://www.google.com/)
-
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
-
----
-
-## Images
-
-Here's our logo (hover to see the title text):
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
-
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
-Images from any folder can be used by providing path to file. Path should be relative to markdown file.
-
-![img](../static/img/logo.svg)
-
----
-
-## Code
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
+LX->JBSC->DL->KF->SC->ZT->MX
 
 ```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
+
+### 环境要求
+
+#### 开发环境
+
+#### 运行环境
+
+### 素材要求
+
+#### 素材要求
+
+#### 设置要求
+
+## 快速上手
+**马克飞象**会自动使用文档内出现的第一个标题作为笔记标题。例如本文，就是第一行的 
+
+### 基本概念
+保存在印象笔记中的笔记，右上角会有一个红色的编辑按钮，点击后会回到**马克飞象**中打开并编辑该笔记。
+
+#### 背景
+
+实现多元化，使游戏色彩更加丰富。
+
+#### 图元
+
+#### 列表
+
+| Item      |    Value | Qty  |
+| :-------- | --------:| :--: |
+| Computer  | 1600 USD |  5   |
+| Phone     |   12 USD |  12  |
+| Pipe      |    1 USD | 234  |
+
+#### 可放置图元
+
+#### 代码
+``` python
+@requires_authorization
+def somefunc(param1='', param2=0):
+    '''A docstring'''
+    if param1 > param2: # interesting
+        print 'Greater'
+    return (param2 - param1 + 1) or None
+class SomeClass:
+    pass
+>>> message = '''interpreter
+... prompt'''
 ```
 
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-```
 
----
 
-## Tables
+#### 保存
 
-Colons can be used to align columns.
+### 创建第一个任务卡
+**马克飞象**通过**将Markdown原文以隐藏内容保存在笔记中**的精妙设计，实现了对Markdown的存储和再次编辑。既解决了其他产品只是单向导出HTML的单薄，又规避了服务端存储Markdown带来的隐私安全问题。这样，服务端仅作为对印象笔记 API调用和数据转换之用。
 
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
+#### 添加一个任务卡
 
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+>
 
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
+#### 添加背景
+>
 
----
+#### 添加图元
+>
 
-## Blockquotes
+#### 选择图元类别
+>
 
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
+#### 设置图元尺寸与位置
+>
 
-Quote break.
+#### 添加托盘
+>
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+#### 添加列表
+>
 
----
+#### 添加代码
+>
 
-## Inline HTML
+#### 保存
+>
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+#### 预览
+>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+#### 发布
+>
 
----
+## 基础知识
+**马克飞象**使用浏览器离线存储将内容实时保存在本地，不必担心网络断掉或浏览器崩溃。为了节省空间和避免冲突，已同步至印象笔记并且不再修改的笔记将删除部分本地缓存，不过依然可以随时通过`文档管理`打开。
 
-## Line Breaks
+### 素材功能
+右侧系统菜单（快捷键`Ctrl + M`）的`设置`中，提供了界面字体、字号、自定义CSS、vim/emacs 键盘模式等高级选项。
 
-Here's a line for us to start with.
+#### 背景
+>让盒子不再单一
 
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
+#### 图元
+>使元素多样化
 
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
+#### 托盘
+>添加了互动环节
 
----
+#### 列表
+>展现出有序整洁
 
-## Admonitions
+#### 位置与大小
+>给使用者一定程度的舒适度
 
-:::note
+#### 类型
+>溢智类型
 
-This is a note
+### 代码功能
+>给所有元素添加定义
 
-:::
+#### 逻辑
+>使功能更加人性化
 
-:::tip
+#### 循环
+>
 
-This is a tip
+#### 数学
+>分数的体现
 
-:::
+#### 文本
+>
 
-:::important
+#### 变量
+>
 
-This is important
+#### 图元
+>
 
-:::
+#### 运动
+>
 
-:::caution
+#### 外观
+> 
 
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
+#### 声音
+> 
