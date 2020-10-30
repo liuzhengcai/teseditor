@@ -6,7 +6,13 @@ title: 添加一个任务卡
 
 >在此界面可以进行任务卡的添加的删除，还有具体案例以便阅览。
 
+![img](../static/img/newcard.png)
+
 >且在回收站可以知晓删除文件记录
+
+![img](../static/img/huishouzhan.png)
+
+
 
 
 
