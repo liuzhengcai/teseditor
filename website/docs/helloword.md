@@ -3,12 +3,36 @@ id: helloword
 title: Hello World
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+# 教程：英雄指南
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+> 在本教程中，你将从头开始构建自己的应用，体验典型的开发过程。这里还有一些对基本的应用设计概念、工具和术语的介绍。
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+> 如果你对 **`“TES”`** 还不熟悉，你可能要先试一试 快速上手应用。它基于一个现成的、已部分完成的项目，你可以在交互式开发环境中检查和修改，你还可以在那里实时查看结果。
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+> “试一试”教程遵循最新的最佳实践，以简明的格式，涵盖了与其相同的主要话题 - 组件、模板语法、路由、服务。
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+在本教程的最后，你将完成下列工作：
+
+- 了解开发平台的页面布局。
+
+- 熟悉开发平台的基本操作。
+
+- 能够自主使用平台开发。
+
+**布局了解及其简述**
+
+![img](../static/img/bujv.png)
+
+**首先**：我们来到会看到这样一个页面供大家做一个**`“初步了解”`**。
+
+![img](../static/img/shouxian.png)
+
+- 在此页面中，可以看到标记的示范项目，点击示范项目进入第二环节。
+
+**其次**：我们进去该项目之后，会看到一个完整的实例项目，在这个页面中我们可以随意操作来达到对平台的初步认识。
+
+![img](../static/img/qici.png)
+
+- 在这一步的进行中，尽量去尝试页面中所拥有的所有元素来提升自己对平台的熟练度。
+
+- **`“具体操作”`**为：点击->进入->拖动图元到托盘->修改操作->保存->预览->发布
