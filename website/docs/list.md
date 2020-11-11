@@ -1,5 +1,5 @@
 ---
-id: listcard
+id: List
 title: 列表
 ---
 
