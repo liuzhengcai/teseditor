@@ -14,7 +14,7 @@ title: 基本概念
 
   
 
-<img src="../static/img/image-20201104155951009.png" alt="img"  />
+![img](../static/img/image-20201104155951009.png)
 
 - PC设备直接访问以下链接：
 
@@ -22,13 +22,13 @@ title: 基本概念
 
   - 效果如下：
 
-    <img src="../static/img/image-20201104160154646.png" alt="img"  />
+   ![img](../static/img/image-20201104160154646.png)
 
 ## 资源定义
 
 如下图所示：
 
-<img src="../static/img/QQ截图20201104113043.jpg" alt="img"  />
+![img](../static/img/QQ截图20201104113043.jpg)
 
 ### 图元的类型：
 
@@ -36,7 +36,7 @@ title: 基本概念
 
 - 这里可以看到图元的所有类型，分别为：列表，图元，文本，可放置图元，可放置文本，托盘。
 
-<img src="../static/img/tuyuanleixing.png" alt="img"  />
+![img](../static/img/tuyuanleixing.png)
 
 ### 用法
 

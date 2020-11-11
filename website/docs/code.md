@@ -26,17 +26,17 @@ title: 代码
 
 **`注意`**在这里的图元名称必须与文本形式。
 
-<img src="../static/img/liebiao.png" alt="img"  />
+![img](../static/img/liebiao.png)
 
 - **重置**：重置按钮的代码属于图元，选择插入即可，功能为重置页面元素。
 
-<img src="../static/img/chongzhi.png" alt="img"  />
+![img](../static/img/chongzhi.png)、
 
 - **答案**：选择图元代码模块，并在此插入正确代码的文本，隐藏为false。
 
-<img src="../static/img/daan.png" alt="img"  />
+![img](../static/img/daan.png)、
 
 - **提交**：首先，要先设置总成绩，总成绩为答案总分。
   初始成绩为0，设置if do的循环，循环数量为答案个数，选择图元托盘插入图元文本名称以及该文本所对应的托盘，如若对应，成绩加1并提交成绩。
 
-<img src="../static/img/tijiao.png" alt="img"  />
+![img](../static/img/tijiao.png)
