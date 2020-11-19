@@ -1,5 +1,5 @@
 ---
-id: CreateTheFirstTaskCard
+eid: CreateTheFirstTaskCard
 title: 创建第一个任务卡
 ---
 
@@ -7,25 +7,26 @@ title: 创建第一个任务卡
 
 地址链接：https://assistant.es-online.com.cn/lzctest/teseditor/index.html
 开发平台如下图：
- ![image-20201030141115922](../static/img/image-20201030141115922.png)
+
+![image-20201030142318787](../static/img/20201112102444.jpg)
 
 ##  添加任务卡
 
-![image-20201030142627432](../static/img/image-20201030142627432.png)
+![image-20201030142318787](../static/img/20201112103627.jpg)
 
  输入任务卡名称，点击**`“保存”`** ；
 
-![image-20201030142727182](../static/img/image-20201030142727182.png)
+![image-20201030142318787](../static/img/20201112104059.jpg)
 
 等待弹出**`“保存TES List完毕”`**通知，点击**`“确定”`**，新的任务卡创建完毕；
 
-![image-20201030142318787](../static/img/image-20201030142318787.png)
+![image-20201030142318787](../static/img/SaveList.jpg)
 
 ## 进入编辑模式
 
 找到已经创建好的任务卡，点击**`“任务卡名称（自己设定的）”`**，进入编辑界面；
 
-![image-20201030142425795](../static/img/image-20201030142425795.png)
+![image-20201030142318787](../static/img/20201112104114.jpg)
 
 编辑界面，可以听过添加、编辑等功能完成图元的操作，也可以通过积木的方式搭建逻辑代码。
 
@@ -40,10 +41,7 @@ title: 创建第一个任务卡
 | 代码开发窗口 | **`开发过程中`**，逻辑代码的**`积木搭接`**；                                                      |
 
  - 示意图：
-
-![img](../static/img/shiyitu.png)
-
-
+ - ![image-20201030142318787](../static/img/20201112104019.jpg)
 
 ## 添加、设置资源
 
@@ -57,9 +55,7 @@ title: 创建第一个任务卡
 
 - 且图元长宽必须为**`58`**。
 
-  
-
-  ![img](http://localhost:3000/assets/images/chicun-97aaf6f49d115325b8007d820415945b.png)
+  ![img](../static/img/20201112104330.jpg)
 
 ### 添加背景
 
@@ -70,7 +66,7 @@ title: 创建第一个任务卡
 
 >  图片是在此环节上传用于图元背景，选择好的背景会在图元上显示。
 
-![img](../static/img/beijing.png)
+![img](../static/img/20201112104445.jpg)
 
 
 
@@ -80,9 +76,8 @@ title: 创建第一个任务卡
   - 添加步骤：选中空白图元，点击**`“添加图元”`**，选中**`“Browse”`**，选择**`“本地素材”`**；
 
   - **`“答案”`**、**`“重置”`**尺寸为**`“50X50”`**；**`提交`**，尺寸为**`“146X36”`**；
-
-
-![img](../static/img/tianjiatuyuan.png)
+  
+    ![img](../static/img/20201112103500.jpg)
 
 
 ### 添加列表
@@ -95,7 +90,7 @@ title: 创建第一个任务卡
 
 - 调整适当位置即可；
 
-  ![img](../static/img/image-20201104164152415.png)
+  ![img](../static/img/20201112102307.jpg)
 
 
 
@@ -109,14 +104,13 @@ title: 创建第一个任务卡
 
   - 添加一个**`“可放置图元尺寸”`**，必须同样添加一个**`“托盘”`**，一一对应；
 
-    
 
 ### 添加托盘
 
 - **`“托盘”`**是用来盛放图元的工具，相当于图元的归宿，把可放置的图元拖动到相对应的托盘中进行互动。
   - 托盘的大小与样式必须与可放置图元一致。
 
-![img](../static/img/tuopan.png)
+ ![img](../static/img/20201112104554.jpg)
 
 ### 添加答案
 
@@ -130,101 +124,126 @@ title: 创建第一个任务卡
 
 - 选择资源列表，点选重置图元
 
-  ![img](../static/img/image-20201104170938441.png)
+   ![img](../static/img/20201112103937.jpg)
+
+  
 
 - 选择代码列表，点击图元，将其中的重置按钮，拖入代码预览窗口；
 
-![img](../static/img/image-20201104171034257.png)
+![img](../static/img/20201112103930.jpg)
 
 - 点击资源，选择保存卡片，完成重置代码积木的搭接；
-
-![img](../static/img/image-20201104171034257.png)
 
 ### 增加列表代码
 
 - 选择列表图元，点击代码，进入代码编辑界面
 
-  ![img](../static/img/image-20201104172135370.png)
+  ![img](../static/img/20201112103853.jpg)
 
 - 点击图元模块，选择图元积木移入列表，拖入开发预览窗口；
 
-  ![img](../static/img/image-20201104172101915.png)
+  ![img](../static/img/20201112103902.jpg)
 
 - 点击文本模块，选择自定义文本积木，拖入图元积木移入列表接口；
 
-  ![img](../static/img/image-20201104172030030.png)
+  ![img](../static/img/20201112103912.jpg)
 
 - 在文本模块，输入自定义命名的可放置图元名称，复制积木块，继续增加其他可放置图元；
 
-  ![img](../static/img/image-20201104172003187.png)
+  ![img](../static/img/20201112103656.jpg)
 
 ### 增加提交代码
 
 - 选择提交图元，点击代码，进入代码编辑界面
   
-  ![img](../static/img/tijiaozhe.png)
+  ![img](../static/img/20201112102645.jpg)
 
 -  点击提交模块，选择逻辑积木，拖入开发预览窗口；
 
-  ![img](../static/img/tijiaoluo.png)
+  ![img](../static/img/20201112103427.jpg)
 
 - 点击文本模块，选择自定义文本积木，拖入文本积木移入列表接口；
 
-  ![img](../static/img/tijiaowen.png)
+  ![img](../static/img/20201112102714.jpg)
 
 - 点击图元模块，选择图元积木，拖入开发预览窗口；
 
-  ![img](../static/img/tijiaotu.png)
+  ![img](../static/img/20201112103350.jpg)
+
+  
 
 - 点击数字模块，选择自定义数字积木，拖入文本列表中；
 
-  ![img](../static/img/tijiaoshu.png)
+  ![img](../static/img/20201112103411.jpg)
+  
+  
 
 ### 增加答案代码
 
 - 选择答案图元，点击代码，进入代码编辑界面
   
-  ![img](../static/img/daanzhe.png)
+  ![img](../static/img/20201112104245.jpg)
 
 -  点击提交模块，选择逻辑积木，拖入开发预览窗口；
 
-  ![img](../static/img/daanluo.png)
+  ![img](../static/img/20201112104311.jpg)
 
 - 点击文本模块，选择自定义文本积木，拖入文本积木移入列表接口；
 
-  ![img](../static/img/da'an'wen.png)
+  ![img](../static/img/20201112104256.jpg)
 
 - 点击图元模块，选择图元积木，拖入开发预览窗口；
 
-  ![img](../static/img/daantu.png)
- 
+  ![img](../static/img/image-20201113164506096.png)
+
 
 ### 增加背景代码
 
 - 选择背景图元，点击代码，进入代码编辑界面
   
-  ![img](../static/img/beijingzhe.png)
+  ![img](../static/img/image-20201113165335703.png)
 
--  点击提交模块，选择逻辑积木，拖入开发预览窗口；
+- 点击提交模块，选择逻辑积木，拖入开发预览窗口；
 
-  ![img](../static/img/beijingluo.png)
+  ![img](../static/img/20201112104418.jpg)
+
+  
 
 - 点击文本模块，选择自定义文本积木，拖入文本积木移入列表接口；
 
-  ![img](../static/img/beijingwen.png)
+  ![img](../static/img/20201112104256.jpg)
 
 - 点击图元模块，选择图元积木，拖入开发预览窗口；
 
-  ![img](../static/img/beijingtu.png)
+  ![img](../static/img/20201112104418.jpg)
 
 
 ## 预览与调整
 
 **`“预览”`**就是欣赏劳动成果并对此进行点评及其修改，从而达到完善。
 
-![img](../static/img/yulan.png)
+![img](../static/img/yulan.jpg)
 
 ## 发布
 
+- 点击保存卡片
 
+  ![img](../static/img/image-20201111154804473.png)
 
+- 点击我的tes
+
+  ![img](../static/img/image-20201111154624724.png)
+
+- 找到空心阴极灯结构和原理，点击发布
+
+  ![image-20201111154720291](../static/img/image-20201111154720291.png)
+
+- 点击发布运行
+
+  ![image-20201111154720291](../static/img/image-20201111154901520.png)
+
+- 复制发布的链接，转给zl，并且按照创建专题excel填写信息，进行专题创建、测试工作。
+
+  ![image-20201111154720291](../static/img/image-20201111155207343.png)
+  
+  

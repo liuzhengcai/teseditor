@@ -21,7 +21,7 @@ slug: /
 
    - 开发平台如下图：
 
-    ![image-20201030141115922](../static/img/image-20201030141115922.png)
+    ![image-20201030141115922](../static/img/20201112102444.jpg)
 
 ## 应用范围
 >**提示: ** 当前列举应用范围并不完全，请以实际应用为准。
@@ -35,6 +35,6 @@ slug: /
 
 ## 使用流程
 
-  ![liucheng](../static/img/liucheng.svg)
+​                           ![liucheng](../static/img/liucheng.svg)
 
 
