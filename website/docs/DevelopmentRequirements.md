@@ -144,11 +144,11 @@ title: 开发要求
 
 - 关于素材压缩使用https://docsmall.com/image-compress；
 
-<img src="../static/img/1604308991.jpg" alt="liucheng"  />
+![img](../static/img/1604308991.jpg)
 
 - 将已经处理好的UI拖入此网站，进行压缩，打包下载；
 
-<img src="../static/img/ysxz.jpg" alt="liucheng"  />
+![img](../static/img/ysxz.jpg)
 
 ### 拖拽模板
 #### 开发人员需要如下资源： 
