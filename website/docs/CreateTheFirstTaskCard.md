@@ -9,7 +9,7 @@ title: 创建第一个任务卡
 
 ## 进入开发平台
 
-地址链接：https://assistant.es-online.com.cn/lzctest/teseditor/index.html
+
 开发平台如下图：
 
 ![image-20201030142318787](../static/img/20201112102444.jpg)
