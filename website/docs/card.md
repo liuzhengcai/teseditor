@@ -4,7 +4,6 @@ title: 添加一个任务卡
 ---
 1. 找到并打开，TES开发平台地址：
 
-   - 地址链接：https://assistant.es-online.com.cn/lzctest/teseditor/index.html
 
    - 开发平台如下图：
 
