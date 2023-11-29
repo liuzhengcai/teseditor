@@ -10,7 +10,7 @@ title: 创建连线任务卡
 
 ## 进入开发平台[#](https://liuzhengcai.github.io/teseditor/docs/lxcard#进入开发平台)
 
-地址链接：https://assistant.es-online.com.cn/lzctest/teseditor/index.html 开发平台如下图：
+开发平台如下图：
 
 ![image-20201030142318787](https://liuzhengcai.github.io/teseditor/assets/images/20201112102444-aaf44da540baf5acc3ccaa3f2a0e4582.jpg)
 
