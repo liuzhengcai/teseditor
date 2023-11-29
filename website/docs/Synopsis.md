@@ -18,7 +18,7 @@ mermaid: true
 
 ## 平台地址
 
-- 地址链接：https://assistant.es-online.com.cn/lzctest/teseditor/index.html
+- 开发平台：
 
    - 开发平台如下图：
 
